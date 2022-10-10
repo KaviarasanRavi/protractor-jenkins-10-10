@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1665401710451' stop='1665401734988'>
+    <name>My first non angular class1</name>
+    <title>My first non angular class1</title>
+    <test-cases>
+        <test-case start='1665401710451' status='passed' stop='1665401718500'>
+            <name>should navigate to stack overflow login page</name>
+            <title>should navigate to stack overflow login page</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1665401710452' status='passed' stop='1665401710453'>
+                    <name>Launch the browser </name>
+                    <title>Launch the browser </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401710453' status='passed' stop='1665401710454'>
+                    <name>Click on pincode</name>
+                    <title>Click on pincode</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401710454' status='passed' stop='1665401710455'>
+                    <name>data it passing in pincode textbox</name>
+                    <title>data it passing in pincode textbox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='3418dd9f-459b-41f5-bd2a-995df5e24429-attachment.png' type='image/png' size='675799'/>
+            </attachments>
+        </test-case>
+        <test-case start='1665401718500' status='passed' stop='1665401734987'>
+            <name>function</name>
+            <title>function</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1665401718501' status='passed' stop='1665401718502'>
+                    <name>verified that user able to search the products in search </name>
+                    <title>verified that user able to search the products in search </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401718502' status='passed' stop='1665401718503'>
+                    <name>Click on price amount</name>
+                    <title>Click on price amount</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401718503' status='passed' stop='1665401718503'>
+                    <name>waiting processes</name>
+                    <title>waiting processes</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401718503' status='passed' stop='1665401718503'>
+                    <name>Change for Another window</name>
+                    <title>Change for Another window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401718504' status='passed' stop='1665401718506'>
+                    <name> verified that user can able to view the price as per the pod page in product page</name>
+                    <title> verified that user can able to view the price as per the pod page in product page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401718506' status='passed' stop='1665401718507'>
+                    <name>untill it will be scrolled</name>
+                    <title>untill it will be scrolled</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665401726054' status='passed' stop='1665401726055'>
+                    <name>Click on</name>
+                    <title>Click on</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='c56ac1cf-76c9-4368-bff0-47e79d163b25-attachment.png' type='image/png' size='159984'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
